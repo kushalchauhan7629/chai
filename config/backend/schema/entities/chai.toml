@@ -1,0 +1,125 @@
+[skt_id]
+type = "String"
+sort = true
+
+[ruleset_name]
+type = "String"
+sort = true
+
+[recociliation_date]
+type = "Date"
+sort = true
+
+[status]
+type = "String"
+sort = true
+
+[comment]
+type = "String"
+sort = true
+
+[tag]
+type = "String"
+sort = true
+
+[a_skt_id]
+type = "String"
+sort = true
+
+[a_skt_created_at]
+type = "Date"
+sort = true
+
+[a_skt_created_date]
+type="Date"
+sort = true
+
+[a_stt]
+type = "Number"
+sort = true
+
+[a_ms_date]
+type = "Date"
+sort = true
+
+[a_mstransid]
+type="String"
+sort = true
+
+[a_ms_receipt_id]
+type = "String"
+sort = true
+
+[a_ms_tx_status]
+type = "Boolean"
+sort = true
+
+[a_mstotal_amount]
+type="Number"
+sort = true
+
+[a_file_id]
+type = "String"
+sort = true
+
+[a_filename]
+type = "String"
+sort = true
+
+[a_skt_uniqueness]
+type = "Number"
+sort = true
+
+[b_skt_id]
+type = "String"
+sort = true
+
+[b_skt_created_at]
+type = "Date"
+sort = true
+
+[b_skt_created_date]
+type = "Date"
+sort = true
+
+[b_id]
+type = "Number"
+sort = true
+
+[b_created_at]
+type = "Date"
+sort = true
+
+[b_amount]
+type = "Number"
+sort = true
+
+[b_order_ref]
+type = "String"
+sort = true
+
+[b_merchant_order_ref]
+type = "String"
+sort = true
+
+[b_channel_order_ref]
+type = "String"
+sort = true
+
+[b_status_reason]
+type = "Boolean"
+sort = true
+
+[b_file_id]
+type = "Number"
+sort = true
+
+[b_filename]
+type = "String"
+sort = true
+
+[b_skt_uniqueness]
+type = "Number"
+sort = true
+
+
