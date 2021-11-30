@@ -1,20 +1,115 @@
-[email]
-  label = 'Email'
-  dropDown = 'EmailId'
-  
-  
-[password]
-  label = 'Password'
-  
-  
-[username]
-  label = 'UserName'
-[dob]
-  label = 'Date Of Birth'
-  
-  
-[name]
-  autoSuggestion = true
-  label = 'Name'
+[skt_id]
+label = 'skt_id'
+autoSuggestion = true
+   
+[ruleset_name]
+label = 'ruleset_name'
+autoSuggestion = true
+   
+[recociliation_date]
+label = 'recociliation_date'
+autoSuggestion = true
 
+[status]
+label = 'status'
+autoSuggestion = true
+  
+[comment]
+autoSuggestion = true
+label = 'comment'
 
+[tag]
+autoSuggestion = true
+label = 'tag'
+
+[a_skt_id]
+autoSuggestion = true
+label = 'a_skt_id'
+
+[a_skt_created_at]
+autoSuggestion = true
+label = 'a_skt_created_at'
+
+[a_skt_created_date]
+autoSuggestion = true
+label = 'a_skt_created_date'
+
+[a_stt]
+autoSuggestion = true
+label = 'a_stt'
+
+[a_ms_date]
+autoSuggestion = true
+label = 'a_ms_date'
+
+[a_mstransid]
+autoSuggestion = true
+label = 'a_mstransid'
+
+[a_ms_receipt_id]
+autoSuggestion = true
+label = 'a_ms_receipt_id'
+
+[a_mstotal_amount]
+autoSuggestion = true
+label = 'a_mstotal_amount'
+
+[a_file_id]
+autoSuggestion = true
+label = 'a_file_id'
+
+[a_filename]
+autoSuggestion = true
+label = 'a_filename'
+
+[a_skt_uniqueness]
+autoSuggestion = true
+label = 'a_skt_uniqueness'
+
+[b_skt_id]
+autoSuggestion = true
+label = 'b_skt_id'
+
+[b_skt_created_at]
+autoSuggestion = true
+label = 'b_skt_created_at'
+
+[b_skt_created_date]
+autoSuggestion = true
+label = 'b_skt_created_date'
+
+[b_id]
+autoSuggestion = true
+label = 'b_id'
+
+[b_created_at]
+autoSuggestion = true
+label = 'b_created_at'
+
+[b_amount]
+autoSuggestion = true
+label = 'b_amount'
+
+[b_order_ref]
+autoSuggestion = true
+label = 'b_order_ref'
+
+[b_merchant_order_ref]
+autoSuggestion = true
+label = 'b_merchant_order_ref'
+
+[b_status_reason]
+autoSuggestion = true
+label = 'b_status_reason'
+
+[b_file_id]
+autoSuggestion = true
+label = 'b_file_id'
+
+[b_filename]
+autoSuggestion = true
+label = 'b_filename'
+
+[b_skt_uniqueness]
+autoSuggestion = true
+label = 'b_skt_uniqueness'
