@@ -1,106 +1,95 @@
 [skt_id]
   type = "String"
 
-
 [ruleset_name]
   type = "String"
-
 
 [recociliation_date]
   type = "Date"
 
-
-
-
 [status]
   type = "String"
-
 
 [comment]
   type = "String"
 
-
 [tag]
   type = "String"
 
-
-
-[a_skt_d]
+[a.skt_id]
   type = "String"
 
-
-[a_skt_created]
+[a.skt_created_at]
   type = "Date"
 
+[a.skt_created_date]
+  type="Date"
 
-
-[a_stt]
+[a.stt]
   type = "Number"
 
-
-[a_ms_date]
+[a.ms_date]
   type = "Date"
 
-
-
-
-
-
-
-
-[a_mstransid]
+[a.mstransid]
   type="String"
 
-
-[a_ms_receipt_id]
+[a.ms_receipt_id]
   type = "String"
 
-
-[a_ms_tx_status]
+[a.ms_tx_status]
   type = "Boolean"
 
-
-[a_mstotal_amount]
+[a.mstotal_amount]
   type="Number"
 
-
-[a_file_id]
+[a.file_id]
   type = "String"
 
-
-[a_filename]
+[a.filename]
   type = "String"
 
-
-[a_skt_uniqueness]
+[a.skt_uniqueness]
   type = "Number"
 
+[b.skt_id]
+  type = "String"
 
+[b.skt_created_at]
+  type = "Date"
 
+[b.skt_created_date]
+  type = "Date"
 
+[b.id]
+  type = "Number"
 
+[b.created_at]
+  type = "Date"
 
+[b.amount]
+  type = "Number"
 
+[b.order_ref]
+  type = "String"
 
+[b.merchant_order_ref]
+  type = "String"
 
-
-[b_skt_id]
+[b.channel_order_ref]
   type = "String"
 
 
-[b_skt_created]
-  type = "Date"
+[b.status_reason]
+  type = "Boolean"
 
-
-[b_skt_created_date]
-  type = "Date"
-
-
-[b_id]
+[b.file_id]
   type = "Number"
 
+[b.filename]
+  type = "String"
 
-[b_created_at]
-  type = "Date"
+[b.skt_uniqueness]
+  type = "Number"
 
 
